@@ -87,7 +87,7 @@ background: #E3E3E3;}
 margin-top: 30px;
 justify-content: space-between;
 align-items: center;}
-.header ul li {font-family: Open Sans;
+.header ul li {font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -707,7 +707,7 @@ position: relative;}
     .newsletter-form form input:nth-child(3) {
         color: #1E2832;
         font-size: 16px;
-        font-family: Open Sans;
+        font-family: 'Open Sans', sans-serif;
         font-weight: 400;
         text-transform: capitalize;
         word-wrap: break-word;
@@ -838,7 +838,7 @@ word-wrap: break-word
 .botton-footer button span {
     color: white;
 font-size: 16px;
-font-family: Open Sans;
+font-family: 'Open Sans', sans-serif;
 font-weight: 400;
 text-transform: capitalize;
 word-wrap: break-word
@@ -862,10 +862,8 @@ color: white;}
 .owl-carousel .owl-nav button.owl-next {
     position: absolute;
     top: 35%;
-    right: 10px;
-}
+    right: 10px;}
 .owl-carousel .owl-nav button.owl-prev {
     position: absolute;
     top: 35%;
-    left: 10px;
-}
+    left: 10px;}
