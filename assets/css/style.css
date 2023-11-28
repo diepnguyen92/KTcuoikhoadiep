@@ -481,9 +481,14 @@ display: flex;}
 
 .row2-product{
    
-    height: auto;
+    height: 478px;
     display: flex;
     margin: 35px -12px 0 -12px;}
+    .row3-product{
+   
+        height: 478px;
+        display: flex;
+        margin-top: 35px;} 
 
 .product-content .product-image .sale {width:52px;
 height: 24px;
