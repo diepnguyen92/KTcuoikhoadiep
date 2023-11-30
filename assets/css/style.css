@@ -394,8 +394,7 @@ word-wrap: break-word;}
     
     .product-content {
     height: auto;
-    margin-bottom: 24px;
-}
+    margin-bottom: 24px;}
 .product-content .product-image {
     width: 312px;
     height: 400px;
@@ -567,25 +566,29 @@ right: 72px;}
 .baner {width: 1920px;
 height: 776px;
 position: relative;
-margin-top: 140px;}
+margin-top: 140px;
+background-image: url('../image/background.png');}
 
 .baner-logo1 {width: 676px;
     height: 309px;
     flex-shrink: 0;
+    background-image: url('../image/1024px-Zara_Logo\ 1.png');
     position: absolute;
 left: 1244px;
 top: 51px;
-background: cover no-repeat;
-}
+background: cover no-repeat;}
 .baner-logo2 {
-    width: 191px;
+width: 191px;
 height: 81px;
+background-image: url('../image/1024px-Zara_Logo\ 2.png');
 position: absolute;
 top: 233px;
 right: 646px;}
+/* content baner*/
+
 .baner-content {width: 504px;
-    height: 187px;
-    font-family: 'Roboto', sans-serif;
+height: 187px;
+ font-family: 'Roboto', sans-serif;
 font-size: 26px;
 font-style: normal;
 font-weight: 400;
